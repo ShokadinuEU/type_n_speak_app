@@ -1,0 +1,15 @@
+{
+  "name": "type_n_speak_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://shokadinueu.github.io/type_n_speak_app",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
